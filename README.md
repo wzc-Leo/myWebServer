@@ -7,7 +7,7 @@
 测试页：106.12.207.167:8000
 
 
-基于epoll+threadpool实现的小型webserver，支持GET、POST方法。
+基于epoll+threadpool实现的小型webserver，支持GET、POST方法(两数相加返回结果)
 
 使用Epoll边沿触发的IO多路复用技术，非阻塞IO
 
